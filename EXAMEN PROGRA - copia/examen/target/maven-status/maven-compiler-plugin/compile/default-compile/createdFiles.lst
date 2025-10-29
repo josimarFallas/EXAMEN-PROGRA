@@ -1,0 +1,6 @@
+com\ejemplo\modelo\Item.class
+com\ejemplo\dao\ItemDAO.class
+com\mycompany\examen\resources\JakartaEE11Resource.class
+com\ejemplo\web\ItemServlet.class
+com\ejemplo\util\DB.class
+com\mycompany\examen\JakartaRestConfiguration.class
